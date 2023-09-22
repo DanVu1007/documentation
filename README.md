@@ -1,3 +1,5 @@
 # documentation
 
-see documentation [here](django/django.md)
+- [Django](django/README.md)
+- [Magento](magento/README.md)
+- [Odoo](odoo/README.md)
